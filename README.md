@@ -1,5 +1,7 @@
 # Lumibot Signal Executor
 
+*Since you are here, please leave a ⭐*
+
 A production-ready Lumibot backtesting engine for executing pre-computed trading signals with proper risk management, multiple exit conditions, and comprehensive analytics.
 
 ## Why This Exists
