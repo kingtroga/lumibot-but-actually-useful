@@ -211,7 +211,7 @@ examples/
 
 ## Related Article
 
-📖 Read the full breakdown: [A Real-World Trade Strategy Lumibot Backtest](link-to-your-medium-article)
+📖 Read the full breakdown: [A Real-World Trade Strategy Lumibot Backtest](https://tariyekorogha.medium.com/a-real-world-trade-strategy-lumibot-backtest-since-the-devs-gave-a-not-so-useful-2-2-type-bfe109a870f6?postPublishedType=initial)
 
 This article walks through **exactly** what happens line-by-line when Lumibot executes a trade—no toy examples, just production code.
 
